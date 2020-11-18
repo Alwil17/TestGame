@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16c25ae8-a6a9-4894-bdfb-f127dd319221" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1kQYHuBBnQjSEfik4xBQyQFtDSW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TestGame" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.Home.js">
+    <configuration name="Home.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/TestGame/screens/Home.js" working-dir="$PROJECT_DIR$/TestGame/screens">
+      <method v="2" />
+    </configuration>
+    <configuration name="Android" type="ReactNative" factoryName="React Native">
+      <working-dir value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <react-native value="$PROJECT_DIR$/node_modules/react-native" />
+      <platform value="ANDROID" />
+      <envs />
+      <only-packager />
+      <method v="2">
+        <option name="ReactNativePackager" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Home.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16c25ae8-a6a9-4894-bdfb-f127dd319221" name="Default Changelist" comment="" />
+      <created>1605634199358</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605634199358</updated>
+      <workItem from="1605634206266" duration="27346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="140" width="440" height="512" key="FileChooserDialogImpl" timestamp="1605699679516">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="458" y="140" width="440" height="512" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1605699679516" />
+    <state x="539" y="297" key="Github.ShareDialog" timestamp="1605700026966">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="539" y="297" key="Github.ShareDialog/0.27.1366.741@0.27.1366.741" timestamp="1605700026966" />
+    <state x="418" y="74" width="520" height="645" key="Github.UntrackedFilesDialog" timestamp="1605700055183">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="418" y="74" width="520" height="645" key="Github.UntrackedFilesDialog/0.27.1366.741@0.27.1366.741" timestamp="1605700055183" />
+    <state width="1323" height="162" key="GridCell.Tab.0.bottom" timestamp="1605651623192">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1323" height="162" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1605651623192" />
+    <state width="1323" height="162" key="GridCell.Tab.0.center" timestamp="1605651623192">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1323" height="162" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1605651623192" />
+    <state width="1323" height="162" key="GridCell.Tab.0.left" timestamp="1605651623177">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1323" height="162" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1605651623177" />
+    <state width="1323" height="162" key="GridCell.Tab.0.right" timestamp="1605651623192">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1323" height="162" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1605651623192" />
+    <state x="172" y="33" key="SettingsEditor" timestamp="1605699987798">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="33" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1605699987798" />
+    <state x="278" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1605700563933">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1605700563933" />
+  </component>
+</project>
