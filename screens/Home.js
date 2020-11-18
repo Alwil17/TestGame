@@ -42,7 +42,6 @@ const Home = ({ navigation }) => {
             </View>
             <View style={styles.bottom}>
                 <Text style={{fontWeight: "bold", fontSize: 30}}>Mon premier Projet</Text>
-                <Button title='refesh' onPress={onRefresh}/>
                 <Button title='New Game' onPress={() => navigation.navigate("Game")}/>
             </View>
         </View>
