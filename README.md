@@ -13,3 +13,5 @@ Launch this project using expo.
 <strong>#npm install</strong>
 
 <strong>#expo start</strong> or <strong>#npm start</strong>
+
+<strong style="color: red;">Be sure you have Node.js installed and latest version</strong>
